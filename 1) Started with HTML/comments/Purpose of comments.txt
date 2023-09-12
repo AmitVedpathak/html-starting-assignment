@@ -1,0 +1,6 @@
+In HTML, comments are used to include notes or annotations within the code that are not visible to the users when they view the webpage.
+The primary purpose of comments in HTML is to provide information to developers and maintainers of the code, helping them understand the structure and functionality of the HTML document. 
+Comments are ignored by web browsers and do not affect the rendering or behavior of the webpage.
+
+HTML comments are enclosed within <!-- and --> tags. 
+Anything placed between these tags is treated as a comment and is not displayed on the webpage.

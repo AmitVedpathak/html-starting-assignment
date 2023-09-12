@@ -1,0 +1,20 @@
+In HTML, "tags" and "elements" are fundamental components that define the structure and content of a web page. 
+
+Tags:
+Tags in HTML are enclosed in angle brackets (< >) and serve as markup instructions for defining the structure and meaning of content within a web page. Tags come in pairs: an opening tag and a closing tag, and they define the beginning and end of an HTML element.
+
+Example of Tags:
+
+<p>: Represents a paragraph of text.
+<a>: Defines a hyperlink.
+<img>: Specifies an image element.
+Elements:
+Elements in HTML are created by combining an opening tag, its content, and a closing tag. They form complete units that represent specific parts of a web page's structure or content. Elements can be nested inside one another to create a hierarchical structure, and they can have attributes that provide additional information about the element.
+
+Example of Elements:
+
+<p>This is a <strong>strong</strong> element.</p>: Combines an opening <p> tag, content, and a closing </p> tag. It also contains a nested <strong> element.
+<ul>: Represents an unordered list.
+  <li>Item 1</li>: Represents a list item within an unordered list.
+  <li>Item 2</li>: Another list item.
+  <li>Item 3</li>: Yet another list item.
